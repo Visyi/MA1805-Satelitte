@@ -1,12 +1,10 @@
 let bg;
-let leaf;
 let overgrowth;
 let slider;
 let ambientsound;
 
 function preload() {
   bg = loadImage('/assets/bg.png');
-  leaf = loadImage('/assets/leaf.png');
   overgrowth = loadImage('/assets/bgog.png');
   ambientsound = loadSound('/assets/forest.mp3')
 }
