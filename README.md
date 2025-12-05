@@ -1,8 +1,8 @@
 # Duality of Nature
 
                                         Pixelated interactive Art Piece
-                                        
-                                    https://visyi.github.io/MA1805-Satelitte/
+
+ https://visyi.github.io/MA1805-Satelitte/
 
 ## Brief Description
 
